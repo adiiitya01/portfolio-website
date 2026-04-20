@@ -57,7 +57,7 @@ portfolio/
 ## 🧪 How to Run Locally
 
 1. Clone the repository  
-git clone https://github.com/your-username/your-repo-name.git  
+git clone https://github.com/adiiitya01/MY---Portfolio/edit/main/README.md
 
 2. Open the folder  
 cd your-repo-name  
@@ -102,9 +102,9 @@ This portfolio is created to:
 ## 📬 Contact Me
 
 📍 Mumbai, India  
-📧 (Add your email here)  
-🔗 LinkedIn: (Add your LinkedIn link)  
-💻 GitHub: https://github.com/  
+📧 adityaudugade0@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/aditya-udugade-28147b345  
+💻 GitHub: https://github.com/adiiitya01/MY---Portfolio
 
 ---
 
