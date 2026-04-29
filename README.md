@@ -7,7 +7,7 @@ It is designed to present my technical abilities, projects, and contact informat
 
 ## 🚀 Live Demo
 
-🔗 https://adiiitya01.github.io/MY---Portfolio/
+🔗https://adiiitya01.github.io/portfolio-website/
 
 ---
 
